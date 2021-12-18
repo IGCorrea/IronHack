@@ -1,7 +1,7 @@
 # Ataques de Tubarão nos Estados Unidos da America
 ## Introdução
 
-Ataques de tubarão são fatos marcantes e recorrentes, que assustam muitas pessoas, seja por influência do filme “Tubarão“ lançado em 1975 do diretor de cinema Steven Spielberg, seja por notícias nos meios de comunicação. O presente estudo tem como objetivo buscar uma possível relação de causa e consequência para justificar o aumento no número de ataques de tubarão nos Estados Unidos com o passar dos anos a partir do ano de 1950, como apresentado no dataset encontrado no [site](https://www.kaggle.com/teajay/global-shark-attacks) e ilustrado no gráfico a seguir:
+Ataques de tubarão são fatos marcantes e recorrentes, que assustam muitas pessoas, seja por influência do filme “Tubarão“ lançado em 1975 do diretor de cinema Steven Spielberg, seja por notícias nos meios de comunicação. O presente estudo tem como objetivo buscar possíveis relações para entender melhor o aumento no número de ataques de tubarão nos Estados Unidos com o passar dos anos a partir do ano de 1950, apresentado no dataset encontrado no [site](https://www.kaggle.com/teajay/global-shark-attacks) e ilustrado no gráfico a seguir:
 
 <img src="Gráficos/Grafico_crescimento_de_ataques.jpg">
 
