@@ -12,10 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <a [Contact Us](mailto:guedesigor@id.uff.br)
-    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" alt="Gmail Badge"/>
-  </a>
-</div>
+ </div>
 
 ---
 <div
@@ -32,7 +29,7 @@ I am a Mechanical Engineering and Data Analytics  <img src="https://media.giphy.
 - <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1f343.png" width ="20"> In my free time, I workout at gym and stay in touch with nature things
 
 
-- 📧 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-IgorGuedes-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/igor-guedes-corr%C3%AAa-02b57b16b/)
+- 📧 How to reach me: [E-mail](mailto:guedesigor@id.uff.br)
 
 ---
 
