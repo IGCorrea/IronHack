@@ -11,7 +11,8 @@
   <a href="https://www.linkedin.com/in/igor-guedes-corr%C3%AAa-02b57b16b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="guedesigor@id.uff.br">
+  
+  <a [Contact Us](mailto:guedesigor@id.uff.br)
     <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" alt="Gmail Badge"/>
   </a>
 </div>
