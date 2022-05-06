@@ -2,7 +2,7 @@
 Para a realização deste projeto, em busca de um problema real, fez-se uso de uma competição existente no Kaggle, presente neste [link](https://www.kaggle.com/competitions/optiver-realized-volatility-prediction/) cujo objetivo é prever a volatilidade de um conjunto de ações num intervalo de 10 minutos. Para tal, foram fornecidos 3 diferentes dataframes com granularidades diferentes:
 
   * Um dataframe no qual estão as ordens de compra e de venda e em cada linha possui as duas ofertas maiores para venda e as duas menores ofertas de compra, com suas respectivas quantidades de ações solicitadas, além de informações relacionadas ao tempo de espera da ordem e o identificador da ação e o identificador do tempo.
-   <img src="https://github.com/IGCorrea/IronHack/blob/main/Projeto%203/imagens/book%20table.JPG  align="center">
+   <img src="https://github.com/IGCorrea/IronHack/blob/main/Projeto%203/imagens/book%20table.JPG"  align="center">
   
   * Outro dataframe possui informações das operações que de fato foram executadas, com o tamanho, valor, tempo até execução e identificador da ação e o identificador do tempo.
    <img src="https://github.com/IGCorrea/IronHack/blob/main/Projeto%203/imagens/trade_st0.JPG" align="center">
