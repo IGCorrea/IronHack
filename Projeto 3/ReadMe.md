@@ -20,6 +20,7 @@ Para visualização dos resultados, usou-se uma outra biblioteca, a Shap, que pe
 # Resultados
 
 O erro obtido no processo foi de 0,238 ou 23,8%, para todos os pontos do dataframe resultante da função modelo. O maior erro para uma única ação foi de 0,551 ou 55,1% para a ação identificada como Stock_id=31, e o menor erro encontrado foi de 0,164 ou 16,4% para ação identificada como Stock_id=56.
+Para visualizar o valor do erro para cada Stock Id, abrir este [dashboard](https://public.tableau.com/views/RMSPE/Dashboard1?:language=pt-BR&:display_count=n&:origin=viz_share_link)
 
 # Conclusão e Próximos Passos
 
